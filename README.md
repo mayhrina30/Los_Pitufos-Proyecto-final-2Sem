@@ -11,4 +11,7 @@
 
 
 <h3>------- Creamos un bono de sueldo para un empleado con sus decuentos de jubilaciones , presentismo , pago por hora , comision de ventas ect   ------<h3>
+  
+  <div>
  [![Imagen-animada-Java-04.gif](https://i.postimg.cc/sDsL7bHJ/Imagen-animada-Java-04.gif)](https://postimg.cc/s1HKRHrB)
+<div>
