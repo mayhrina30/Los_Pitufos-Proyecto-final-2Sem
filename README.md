@@ -1,5 +1,6 @@
-# Los_Pitufos  Bono de sueldo
-proyecto final 
+<h1> Los Pitufos 
+  
+ " Bono de Sueldo"  proyecto final <h1>
 
 
 
