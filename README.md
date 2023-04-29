@@ -4,5 +4,10 @@
 
 
 
-[![pitufos.gif](https://i.postimg.cc/1RNxGfhc/pitufos.gif)](https://postimg.cc/hhg3g4Gf)
 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sDStMG3p/plata.webp' border='0' alt='plata'/></a><br /><a href='https://postimages.org/es/'>free image upload</a><br />
+
+
+
+
+--------Creamos un bono de sueldo para un empleado con sus decuentos de jubilaciones , presentismo , pago por hora , comision de ventas trabajos en java------
