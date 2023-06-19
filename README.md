@@ -10,7 +10,7 @@
 
 
 
-<h3>------- Creamos un bono de sueldo para un empleado con sus decuentos de jubilaciones , presentismo , pago por hora , comision de ventas ect   ------<h3>
+<h3>------- Creamos en grupo un bono de sueldo para un empleado con sus respectivos decuentos  jubilaciones , presentismo , pago por hora , comision de ventas ect   ------<h3>
   
  <div align="center">
    
